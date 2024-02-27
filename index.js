@@ -39,6 +39,16 @@ database.sync()
 
 
 // Le commentaire pour le github
+
+
+
+
+
+// bonjour
+
+
+
+
 const notreFunction = (req, res) => {
     res.send('Bonjour')
 }
