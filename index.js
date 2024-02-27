@@ -35,6 +35,10 @@ import router from './routes/departmentRoute.js'
 
 database.sync()
 
+
+
+
+// Le commentaire pour le github
 const notreFunction = (req, res) => {
     res.send('Bonjour')
 }
